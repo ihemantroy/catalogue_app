@@ -15,5 +15,4 @@ https://user-images.githubusercontent.com/54895033/127278083-f52cf3fa-b836-467d-
 * A little knowledge of Dart and Flutter
 * A brain to think 🤓🤓
 
-## 🪧 Demo
-[Download the APK to try out the app](https://github.com/Ash20vyas/catalogue_app/raw/main/catalogue_app.apk)
+#MADE BY HEMANT
