@@ -1,0 +1,76 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "iPhone 12 Pro",
+            "desc": "Apple iPhone 12th Gen",
+            "price": 999,
+            "color": "#33505a",
+            "imgURL": 
+                "https://media1.popsugar-assets.com/files/thumbor/JhWnT0vhNmv7Ie6CxCThVmAaBGo/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2020/10/13/960/n/1922507/9b46ae508c936f82_iPhone_12_Pro_Max_iPhone_12_Pro_pacific_blue/i/iPhone-12-Pro-Max.png"
+        },
+        {
+            "id": 2,
+            "name": "Pixel 5",
+            "desc": "Google Pixel phone 5th Gen",
+            "price": 699,
+            "color": "#00ac51",
+            "imgURL": 
+                "https://cdn.shopify.com/s/files/1/0051/8301/2928/products/Pixel5Front-Reformatted_1200x1200.png"
+        },
+        {
+            "id": 3,
+            "name": "M1 Macbook Air",
+            "desc": "Apple Macbook Air with apple silicon",
+            "price": 1099,
+            "color": "#e0bfae",
+            "imgURL": 
+                "https://photos5.appleinsider.com/price_guide/m1-macbook-pro-pp-header.png"
+        },
+        {
+            "id": 4,
+            "name": "PlayStation 5",
+            "desc": "Sony PlayStation 5th Gen",
+            "price": 500,
+            "color": "#544ee4",
+            "imgURL": 
+                "https://i1.wp.com/freepngimages.com/wp-content/uploads/2020/07/Playstation-5-games-console-transparent-background-png-image.png?fit=1000%2C1000"
+        },
+        {
+            "id": 5 ,
+            "name": "Airpods Pro",
+            "desc": "Apple Airpods Pro 1st Gen",
+            "price": 200,
+            "color": "#e3e4e9",
+            "imgURL": 
+                "https://crdms.images.consumerreports.org/c_lfill,w_598/prod/products/cr/models/400116-wireless-portable-headphones-apple-airpods-pro-10009323.png"
+        },
+        {
+            "id": 6,
+            "name": "iPad Pro",
+            "desc": "Apple iPad Pro 2020 edition",
+            "price": 799,
+            "color": "#f73984",
+            "imgURL": 
+                "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/ipad-pro-12-select-202104_GEO_IN?wid=970&amp;hei=1020&amp;fmt=png-alpha&amp;.v=1617903448000"
+        },
+        {
+            "id": 7,
+            "name": "Galaxy S21 Ultra",
+            "desc": "Samsung Galaxy S21 Ultra 2021 edition",
+            "price": 1299,
+            "color": "#1c1c1c",
+            "imgURL": 
+                "https://lh3.googleusercontent.com/qRQPjHrhRVIs-xnfNSyiPXOH2vH97ylMacgbTKebqJtRfNH3LlYo8pN-5igsLDWUH62tGl5zNpTsl5xd8SprzGmXoCEmWFOi2-2cQVGS-r3PaRXHt62DmJHq-jrYX0UQvWZ9BA=s800-c"
+        },
+        {
+            "id": 8,
+            "name": "Galaxy S21",
+            "desc": "Samsung Galaxy S21 2021 edition",
+            "price": 899,
+            "color": "#7c95eb",
+            "imgURL": 
+                "https://images.samsung.com/is/image/samsung/p6pim/za/galaxy-s21/gallery/za-clear-cover-galaxy-s21-5g-ef-qg991ttegww-363168624?$720_576_PNG$"
+        }
+    ]
+}
